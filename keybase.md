@@ -77,3 +77,23 @@ cCn59R3Jwyed3BV/PBBxamDhvQOZbxc3y0FtP9M7HCPQtW9i0JYJpT2ya93hfwE=
 -----END PGP MESSAGE-----
 
 ```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/herdir
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/docs/command_line).
+
+```bash
+# look me up
+keybase id herdir
+
+# encrypt a message to me
+keybase encrypt herdir -m 'a secret message...'
+
+# ...and more...
+```
